@@ -38,6 +38,7 @@ setup(
     license="MIT license",
     zip_safe=False,
     keywords='linked_neurons deep-learning machine-learning neural-networks',
+    python_requires='>=3',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
