@@ -37,7 +37,7 @@ setup(
     install_requires=requirements,
     license="MIT license",
     zip_safe=False,
-    keywords='linked_neurons',
+    keywords='linked_neurons deep-learning machine-learning neural-networks',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
