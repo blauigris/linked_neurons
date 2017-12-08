@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{tensorflow2015-whitepaper}
+M.~Abadi, A.~Agarwal, P.~Barham, E.~Brevdo, Z.~Chen, C.~Citro, G.~S. Corrado,
+  A.~Davis, J.~Dean, M.~Devin, S.~Ghemawat, I.~Goodfellow, A.~Harp, G.~Irving,
+  M.~Isard, Y.~Jia, R.~Jozefowicz, L.~Kaiser, M.~Kudlur, J.~Levenberg,
+  D.~Man\'{e}, R.~Monga, S.~Moore, D.~Murray, C.~Olah, M.~Schuster, J.~Shlens,
+  B.~Steiner, I.~Sutskever, K.~Talwar, P.~Tucker, V.~Vanhoucke, V.~Vasudevan,
+  F.~Vi\'{e}gas, O.~Vinyals, P.~Warden, M.~Wattenberg, M.~Wicke, Y.~Yu, and
+  X.~Zheng.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems,
+  2015.
+\newblock Software available from tensorflow.org.
+
+\bibitem{chollet2015keras}
+F.~Chollet et~al.
+\newblock Keras.
+\newblock \url{https://github.com/fchollet/keras}, 2015.
+
+\bibitem{ELU}
+D.-A. Clevert, T.~Unterthiner, and S.~Hochreiter.
+\newblock Fast and accurate deep network learning by exponential linear units
+  (elus).
+\newblock {\em ICLR}, 2016.
+
+\bibitem{firstrelu}
+X.~Glorot, A.~Bordes, and Y.~Bengio.
+\newblock Deep sparse rectifier neural networks.
+\newblock In {\em Proceedings of the Fourteenth International Conference on
+  Artificial Intelligence and Statistics}, pages 315--323, 2011.
+
+\bibitem{drelu}
+F.~Godin, J.~Degrave, and W.~De~Neve.
+\newblock Drelus: Dual rectified linear units.
+\newblock In {\em Neural Networks (submitted)}, 2017.
+
+\bibitem{relu_neurology}
+R.~H. Hahnloser, R.~Sarpeshkar, M.~A. Mahowald, R.~J. Douglas, and H.~S. Seung.
+\newblock Digital selection and analogue amplification coexist in a
+  cortex-inspired silicon circuit.
+\newblock {\em Nature}, 405(6789):947--951, 2000.
+
+\bibitem{prelu}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Delving deep into rectifiers: Surpassing human-level performance on
+  imagenet classification.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 1026--1034, 2015.
+
+\bibitem{resnet}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{batchnorm}
+S.~Ioffe and C.~Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em International Conference on Machine Learning}, pages
+  448--456, 2015.
+
+\bibitem{adam}
+D.~Kingma and J.~Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock {\em ICLR}, 2015.
+
+\bibitem{selu}
+G.~Klambauer, T.~Unterthiner, A.~Mayr, and S.~Hochreiter.
+\newblock Self-normalizing neural networks.
+\newblock {\em 31st Conference on Neural Information Processing Systems, NIPS
+  2017}, 2017.
+
+\bibitem{alexnet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{leakyrelu}
+A.~L. Maas, A.~Y. Hannun, and A.~Y. Ng.
+\newblock Rectifier nonlinearities improve neural network acoustic models.
+\newblock In {\em Proc. ICML}, volume~30, 2013.
+
+\bibitem{swish}
+P.~{Ramachandran}, B.~{Zoph}, and Q.~V. {Le}.
+\newblock {Searching for Activation Functions}.
+\newblock {\em ArXiv e-prints}, Oct. 2017.
+
+\bibitem{code}
+C.~R. Riera and O.~Pujol.
+\newblock Linked neurons repository.
+\newblock \url{https://github.com/blauigris/linked_neurons}, 2017.
+
+\bibitem{crelu}
+W.~Shang, K.~Sohn, D.~Almeida, and H.~Lee.
+\newblock Understanding and improving convolutional neural networks via
+  concatenated rectified linear units.
+\newblock In {\em Proceedings of the 33th International Conference on Machine
+  Learning}, volume~48, 2016.
+
+\bibitem{allcnn}
+J.~T. Springenberg, A.~Dosovitskiy, T.~Brox, and M.~Riedmiller.
+\newblock Striving for simplicity: The all convolutional net.
+\newblock {\em ICLR}, 2015.
+
+\bibitem{rmsprop}
+T.~Tieleman and G.~Hinton.
+\newblock Lecture 6.5-rmsprop: Divide the gradient by a running average of its
+  recent magnitude.
+\newblock {\em COURSERA: Neural networks for machine learning}, 4(2):26--31,
+  2012.
+
+\end{thebibliography}
